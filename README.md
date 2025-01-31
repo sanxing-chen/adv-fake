@@ -2,7 +2,7 @@
 
 This repository contains code for the paper:
 
-**[Real-time Fake News from Adversarial Feedback](https://arxiv.org/abs/2410.14651)**
+**[Real-time Fake News from Adversarial Feedback](https://arxiv.org/abs/2410.14651)**  
 Sanxing Chen, Yukun Huang, Bhuwan Dhingra
 
 If you find this work useful in your research, please cite:
